@@ -1,0 +1,13 @@
+.circle  {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  background: linear-gradient(orange, red);
+  border-radius: auto;
+  margin: auto;
+  font-size: 50px;
+  color: #fff;
+}
